@@ -1,7 +1,9 @@
 #'---
-#'output:github_document
+#'output: github_document
 #'---
 
+sessionInfo()
+library(fs)
 
 
 ## how jenny might do this in a first exploration
@@ -12,7 +14,6 @@
 
 ## let's confirm the second element is, in fact, the default library
 .Library
-library(fs)
 path_real(.Library)
 
 #' Installed packages
