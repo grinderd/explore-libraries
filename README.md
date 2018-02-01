@@ -13,4 +13,4 @@ Let's try again? Not quite
 
 Adding this again.
 
-Wait is it the login?
+Wait is it the login? Nope.  Looks like that one box isn't useful.  Don't click it dingus.
